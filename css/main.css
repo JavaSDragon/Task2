@@ -1,0 +1,18 @@
+
+.spin img{
+	max-width: 350px;
+}
+#open1,#open2,#open3{
+	display: none;
+}
+
+ .spin{
+ 	width: 33%;
+ 	float: left;
+ 	text-align: center;
+ 	min-width: 300px;
+ }
+ h1{
+ 	text-align: center;
+ 	color: red;
+ }
